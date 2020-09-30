@@ -1,0 +1,25 @@
+var classpdftron_1_1_p_d_f_1_1_s_v_g_output_options =
+[
+    [ "SVGOutputOptions", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a47e4bfcf7724b6665ab43c0c70ab185f", null ],
+    [ "SetAnnots", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a9445faf79de9ec6b12156e213f35d780", null ],
+    [ "SetCompress", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a9592ac5c84594699dbac890019fb9d49", null ],
+    [ "SetCreateXmlWrapper", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a5f09963b8f015139f740f7a1729371b7", null ],
+    [ "SetDtd", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#ad70d2b1b8405b0dfd435e02cc0f1fee2", null ],
+    [ "SetEmbedFonts", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a0b9945d5bb923c43b873c41f00bca42c", null ],
+    [ "SetEmbedImages", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a3b75d83a1b4cb94a7f7960120c9aaea5", null ],
+    [ "SetFlattenContent", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#aacbea3483ab40ec8e0974c04327b16ef", null ],
+    [ "SetFlattenDPI", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a7976ce34705bfaf5bbac0f51167ccfaa", null ],
+    [ "SetFlattenMaximumImagePixels", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a555eea9e2eda61e6c34cfce508c98ffc", null ],
+    [ "SetFlattenThreshold", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a59403502bbdc04494ccbe15318af0158", null ],
+    [ "SetIndividualCharPlacement", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a1389512f0730cbce9c5cd1af186a111d", null ],
+    [ "SetNoFonts", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a69554ad1550ca459b9e07c8bfeaa5149", null ],
+    [ "SetNoUnicode", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#aa320f516293548b9c83e1d48524e5450", null ],
+    [ "SetOutputThumbnails", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a6ac8c030716bb732e9e793065c3ce7cc", null ],
+    [ "SetOverprint", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#aed92e49801d9dd31a19d169f54896994", null ],
+    [ "SetRemoveCharPlacement", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a35b578ce34d4f202690f8ed58a12380b", null ],
+    [ "SetSvgFonts", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a708658a71a1e72ab7a7da456590e36fc", null ],
+    [ "SetThumbnailSize", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a72bf793fe7c0b991e91a70242ac734c3", null ],
+    [ "Convert", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a2d2f4f747b784412804ac6e44390cf1f", null ],
+    [ "m_obj", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#aecf572643a7e2af600631087c9e3a4ac", null ],
+    [ "m_objset", "d4/d82/classpdftron_1_1_p_d_f_1_1_s_v_g_output_options.html#a9f88f4bdb4606ce8d28bd208da3e85b9", null ]
+];

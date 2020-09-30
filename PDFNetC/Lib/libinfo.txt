@@ -1,0 +1,26 @@
+
+------------------------------------------
+PDFNetC libraries:
+------------------------------------------
+
+PDFNetC.dll             Dynamic link library for C/C++/Java programs on Windows platforms.
+
+libPDFNetC.so.x.y.z     Dynamic link library for C/C++/Java programs on Linux platforms. The "x.y.z" indicates the
+                        release version number of the library
+
+libPDFNetC.dylib.x.y.z  Dynamic link library for C/C++/Java programs on Mac OS platforms. The "x.y.z" indicates the
+                        release version number of the library
+
+------------------------------------------
+Other files:
+------------------------------------------
+
+--C/C++--
+PDFNetC.lib             Stub library for linking with the DLL on Windows platforms.
+libPDFNetC.so           A symbolic link to libPDFNetC.so.x.y.z
+libPDFNetC.dylib        A symbolic link to libPDFNetC.dylib.x.y.z
+
+--JAVA--
+PDFNet.jar              Java interface library.
+
+------------------------------------------
