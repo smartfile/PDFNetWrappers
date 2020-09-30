@@ -1,0 +1,3 @@
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Lib/PDFNetPython.py
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Lib/PDFNetPyLibInfo
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Lib/_PDFNetPython.so

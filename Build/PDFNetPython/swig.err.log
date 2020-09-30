@@ -1,0 +1,77 @@
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Selection.h:76: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/Common/Iterator.h:81: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/Common/Iterator.h:144: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/Common/Matrix2D.h:130: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/Filters/Filter.h:53: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/DictIterator.h:61: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/NameTree.h:94: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/NumberTree.h:64: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/Obj.h:889: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/SecurityHandler.h:135: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/DocSnapshot.h:28: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/ResultSnapshot.h:28: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/UndoManager.h:30: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/ViewChangeCollection.h:15: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Function.h:38: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/ColorSpace.h:40: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/ColorSpace.h:179: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Rect.h:58: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Page.h:47: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Date.h:64: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Field.h:78: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/TimestampingTestResult.h:26: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/TimestampingConfiguration.h:26: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/ObjectIdentifier.h:34: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/X501DistinguishedName.h:26: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/X501AttributeTypeAndValue.h:25: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/X509Extension.h:24: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/X509Certificate.h:26: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/DisallowedChange.h:39: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/VerificationOptions.h:35: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/TrustVerificationResult.h:28: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/VerificationResult.h:62: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/EmbeddedTimestampVerificationResult.h:28: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/DigitalSignatureField.h:61: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/FileSpec.h:85: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Annot.h:108: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Annot.h:724: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Destination.h:192: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Action.h:193: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/FDF/FDFField.h:25: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/OCG/Config.h:202: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/OCG/Group.h:176: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/OCG/Context.h:49: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/OCG/OCMD.h:125: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/AttrObj.h:39: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/ClassMap.h:31: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/ContentItem.h:27: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/RoleMap.h:35: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/STree.h:35: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Struct/SElement.h:36: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Bookmark.h:83: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/DocumentConversion.h:36: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Convert.h:34: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Font.h:231: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Shading.h:72: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PatternColor.h:55: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/GState.h:32: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Image.h:316: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PageLabel.h:131: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFRasterizer.h:55: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFDocViewPrefs.h:306: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFDocInfo.h:161: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFDoc.h:96: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Annots/RadioButtonGroup.h:80: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Element.h:58: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Highlights.h:89: Warning 362: operator= ignored
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFRasterizer.h:49: Warning 401: Nothing known about base class 'TRN_separation'. Ignored.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Optimizer.h:78: Warning 401: Nothing known about base class 'TRN_OptimizerImageSettings'. Ignored.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Optimizer.h:153: Warning 401: Nothing known about base class 'TRN_OptimizerMonoImageSettings'. Ignored.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Optimizer.h:231: Warning 401: Nothing known about base class 'TRN_OptimizerTextSettings'. Ignored.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/SDF/SignatureHandler.h:64: Warning 473: Returning a pointer or reference in a director method is not recommended.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Annot.h:725: Warning 503: Can't wrap 'operator ==' unless renamed to a valid identifier.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Annot.h:726: Warning 503: Can't wrap 'operator !=' unless renamed to a valid identifier.
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Image.h:143: Warning 467: Overloaded method pdftron::PDF::Image::Create(pdftron::SDF::SDFDoc &,unsigned char const *,size_t) not supported (incomplete type checking rule - no precedence level in typecheck typemap for 'unsigned char const *').
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Image.h:120: Warning 467: Overloaded method pdftron::PDF::Image::Create(pdftron::SDF::SDFDoc &,unsigned char const *,size_t,int,int,int,pdftron::PDF::ColorSpace) not supported (incomplete type checking rule - no precedence level in typecheck typemap for 'unsigned char const *').
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/Image.h:120: Warning 467: Overloaded method pdftron::PDF::Image::Create(pdftron::SDF::SDFDoc &,unsigned char const *,size_t,int,int,int,pdftron::PDF::ColorSpace,pdftron::SDF::Obj) not supported (incomplete type checking rule - no precedence level in typecheck typemap for 'unsigned char const *').
+/builds/smartfile/PDFNetWrappers/wrappers_build/PDFNetWrappers/PDFNetC/Headers/PDF/PDFDoc.h:1266: Warning 503: Can't wrap 'operator SDF::SDFDoc&' unless renamed to a valid identifier.
