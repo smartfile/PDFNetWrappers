@@ -1,0 +1,10 @@
+PDFNetC
+PDFNetCMac
+PDFNetC64
+Headers
+Lib
+*.zip
+*.tar
+*.gz
+*.tar.gz
+
